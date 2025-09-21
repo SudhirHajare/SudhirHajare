@@ -2,7 +2,7 @@
 <h3 align="center">A passionate competitive Programmer And Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhirhajare&label=Profile%20views&color=0e75b6&style=flat" alt="sudhirhajare" /> </p>
-
+<img width="500" height="320" alt="image" src="https://github.com/user-attachments/assets/1a310724-758a-46d2-9276-2b6c3b36c926" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhirhajare" alt="sudhirhajare" /></a> </p>
 
 - 🔭 I’m currently working on **Backend Development**
